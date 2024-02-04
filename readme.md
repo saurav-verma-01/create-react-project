@@ -1,1 +1,1 @@
-# Create React Project
+# Learning React JS while having Chai
